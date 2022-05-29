@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../Mybatis_mapper/src/main/resources/mapper/user.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/../SSM_xml/src/main/resources/mappers/user.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/../Spring_xml/src/main/resources/mapper/person.xml" dialect="GenericSQL" />
+  </component>
+</project>
